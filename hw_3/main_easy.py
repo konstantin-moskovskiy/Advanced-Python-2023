@@ -29,7 +29,7 @@ with open("artifacts/easy/matrix+.txt", "w") as file:
     result = matrix1 + matrix2
     file.write(str(result.data))
 
-with open(r'artifacts/easy/matrix*.txt', 'w') as file:
+with open(r'artifacts/easy/matrix_.txt', 'w') as file:
     result = matrix1 * matrix2
     file.write(str(result.data))
 
