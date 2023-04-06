@@ -1,0 +1,3 @@
+sync, num of repeats: 20, time: 2.0287110805511475
+threads, num of repeats: 20, time: 2.031311511993408
+processes, num of repeats: 20, time: 2.9101686477661133
