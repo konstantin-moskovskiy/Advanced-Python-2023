@@ -12,7 +12,7 @@ async def download_images(num_images):
         tasks = []
         for i in range(1, num_images+1):
             url = f'https://picsum.photos/200/300?random={i}'
-            filename = f'artifacts/image_{i}.jpg'
+            filename = f'artifacts/easy/image_{i}.jpg'
             tasks.append(asyncio.ensure_future(download_image(session, url, filename)))
         await asyncio.gather(*tasks)
 
