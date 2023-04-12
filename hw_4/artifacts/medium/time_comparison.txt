@@ -1,0 +1,16 @@
+n_jobs = 1, time taken = 0.000 seconds
+n_jobs = 2, time taken = 0.000 seconds
+n_jobs = 3, time taken = 0.000 seconds
+n_jobs = 4, time taken = 0.000 seconds
+n_jobs = 5, time taken = 0.015 seconds
+n_jobs = 6, time taken = 0.000 seconds
+n_jobs = 7, time taken = 0.000 seconds
+n_jobs = 8, time taken = 0.016 seconds
+n_jobs = 9, time taken = 0.000 seconds
+n_jobs = 10, time taken = 0.000 seconds
+n_jobs = 11, time taken = 0.015 seconds
+n_jobs = 12, time taken = 0.000 seconds
+n_jobs = 13, time taken = 0.000 seconds
+n_jobs = 14, time taken = 0.016 seconds
+n_jobs = 15, time taken = 0.000 seconds
+n_jobs = 16, time taken = 0.016 seconds

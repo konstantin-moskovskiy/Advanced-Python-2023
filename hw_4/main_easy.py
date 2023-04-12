@@ -45,6 +45,6 @@ if __name__ == '__main__':
     run_fibonacci_sync(n, results)
     run_fibonacci_threads(n, results)
     run_fibonacci_processes(n, results)
-    with open('artifacts/results.txt', 'w') as f:
+    with open('artifacts/easy/results.txt', 'w') as f:
         for method, time in results:
             f.write(f'{method}, num of repeats: {n}, time: {time}\n')
